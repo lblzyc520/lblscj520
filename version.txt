@@ -1,2 +1,2 @@
-v8.9.5
+8.9.5
 https://github.com/lblzyc520/lblscj520/releases/download/v8.9.5/AI.v8.9.5.zip
